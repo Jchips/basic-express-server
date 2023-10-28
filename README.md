@@ -10,10 +10,9 @@ Basic Express server with tests.
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/rkgallaway/server-deployment-practice-d51/actions)
-- [back-end server url](http://xyz.com) (when applicable)
-
-### Setup
+- [GitHub Actions ci/cd](https://github.com/Jchips/basic-express-server/actions)
+- [back-end server url](https://basic-express-server-dev-lpr0.onrender.com)
+- [Pull Request](https://github.com/Jchips/basic-express-server/pull/1)
 
 #### `.env` requirements
 
